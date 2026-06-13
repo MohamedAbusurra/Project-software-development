@@ -1,7 +1,5 @@
 # 🌩️ AWS & the Rise of IaaS
 
-> **Semester:** [e.g. Fall 2026]
-
 ---
 
 ## 📽️ Video Presentation
