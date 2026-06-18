@@ -14,7 +14,7 @@
 
 | Name | Student Number | Role |
 |------|---------------|------|
-| [Member 1 Full Name] | [Student #] | [e.g. Research & Script] |
+| [Julio Cesar Silvestre Giazzi] | [Student #] | [e.g. Research & Script] |
 | [Member 2 Full Name] | [Student #] | [e.g. Slide Design] |
 | [Member 3 Full Name] | [Student #] | [e.g. Video Recording & Editing] |
 | [Member 4 Full Name] | [Student #] | [e.g. GitHub Management & README] |
