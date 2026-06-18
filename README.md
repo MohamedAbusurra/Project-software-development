@@ -13,8 +13,8 @@
 ## 👥 Team Members
 
 | Name | Student Number | Role |
-|------|---------------|------|
-| [Julio Cesar Silvestre Giazzi] | [Student #] | [e.g. Research & Script] |
+|-----|---------------|------|
+| Julio Cesar Silvestre Giazzi | 138683255 | Develop Research Material |
 | [Member 2 Full Name] | [Student #] | [e.g. Slide Design] |
 | [Member 3 Full Name] | [Student #] | [e.g. Video Recording & Editing] |
 | [Member 4 Full Name] | [Student #] | [e.g. GitHub Management & README] |
