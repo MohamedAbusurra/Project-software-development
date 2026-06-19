@@ -15,8 +15,8 @@
 | Name | Student Number | Role |
 |-----|---------------|------|
 | Julio Cesar Silvestre Giazzi | 138683255 | Develop Research Material |
-| [Member 2 Full Name] | [Student #] | [e.g. Slide Design] |
-| [Member 3 Full Name] | [Student #] | [e.g. Video Recording & Editing] |
+| Mark Cheung | 108297268 | Video Recording & Editing |
+| [Member 3 Full Name] | [Student #] | [e.g. Slide Design] |
 | [Member 4 Full Name] | [Student #] | [e.g. GitHub Management & README] |
 
 ---
@@ -32,8 +32,8 @@ AWS changed that. By offering rent-by-the-hour computing
 over the internet, IaaS made massive infrastructure accessible
 to anyone. Netflix rebuilt its entire streaming platform on AWS
 after a 2008 database crash nearly killed the company.
-Instagram scaled to 13 million users in under a year —
-with a team of 13 people — because they never had to
+Instagram scaled to 13 million users in under a year -
+with a team of 13 people - because they never had to
 own a single server.
 
 That's the real story of IaaS: it didn't just cut costs,
