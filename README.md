@@ -17,7 +17,7 @@
 | Julio Cesar Silvestre Giazzi | 138683255 | Develop Research Material |
 | Mark Cheung | 108297268 | Video Script & Editing |
 | Mohamed Abusurra | 109314260 | Powerpoint formatting & photos & Github management |
-| [Member 4 Full Name] | [Student #] | Video Editing & Posting |
+| Rafael Grupe Pinto | 134175256 | Video Editing & Posting |
 
 ---
 
