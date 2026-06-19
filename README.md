@@ -16,8 +16,8 @@
 |-----|---------------|------|
 | Julio Cesar Silvestre Giazzi | 138683255 | Develop Research Material |
 | Mark Cheung | 108297268 | Video Script & Editing |
-| [Member 3 Full Name] | [Student #] | [e.g. Slide Design] |
-| [Member 4 Full Name] | [Student #] | [e.g. GitHub Management & README] |
+| Mohamed Abusurra | 109314260 | Powerpoint formatting & photos & Github management |
+| [Member 4 Full Name] | [Student #] | Video Editing & Posting |
 
 ---
 
