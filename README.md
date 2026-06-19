@@ -15,7 +15,7 @@
 | Name | Student Number | Role |
 |-----|---------------|------|
 | Julio Cesar Silvestre Giazzi | 138683255 | Develop Research Material |
-| Mark Cheung | 108297268 | Video Recording & Editing |
+| Mark Cheung | 108297268 | Video Script & Editing |
 | [Member 3 Full Name] | [Student #] | [e.g. Slide Design] |
 | [Member 4 Full Name] | [Student #] | [e.g. GitHub Management & README] |
 
